@@ -1,0 +1,42 @@
+_repo: Finn-The-Wolfhound_30550
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Buxton, Robert Hugh
+    alias: Buxton, R. H. (Robert Hugh)
+    birthdate: 1871
+    gutenberg_agent_id: '34672'
+    url: http://www.gutenberg.org/2009/agents/34672
+covers:
+- cover_type: archival
+  image_path: 30550-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dawson, A. J. (Alec John)
+    aliases:
+    - Dawson, Alec John
+    - Kerr, Howard
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '6572'
+    url: http://www.gutenberg.org/2009/agents/6572
+    wikipedia: http://en.wikipedia.org/wiki/Alec_John_Dawson
+description: When Finn, a champion of champion, is taken from England to Australia,
+  his life changes dramatically. He is separated from his master and put into a circus
+  where he is billed as a ferocious wolf. He escapes to become a leader of a pack
+  of wild dogs. The story climaxes with the reunion of Finn with his master after
+  many adventures.
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2009-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dogs -- Fiction'
+title: Finn The Wolfhound
+url: http://www.gutenberg.org/ebooks/30550
